@@ -10,6 +10,6 @@ Data Visualisation
 Machine Learning
 Model Evaluation
 
-Project access path: ml-learning-journey/projects
+Project access path: ml-learning-journey/ml_projects
 
 Goal: To become a Machine Learning Developer and build real-world ML Projects
