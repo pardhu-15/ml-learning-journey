@@ -1,2 +1,13 @@
 # ml-learning-journey
-My journey to become a Machine Learning Developer
+Hello Guys! I am Pardha Saradhi.
+I'm Learning Machine Learning step by step and building projects with consistency
+
+Skills I'm Learning:
+Python
+Numpy
+Pandas
+Data Visualisation
+Machine Learning
+Model Evaluation
+
+Goal: To become a Machine Learning Developer and build real-world ML Projects
