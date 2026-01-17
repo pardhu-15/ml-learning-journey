@@ -4,6 +4,7 @@ Spam Message Classifier Using Machine Learning
 
 Dataset Used:
 SMS Spam Collection Dataset(taken from Kaggle)
+
 Features of dataset:
 1. label
 2. text
