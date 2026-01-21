@@ -16,7 +16,7 @@ Survived (1) or  Not Survived (0)
 Dataset used: Titanic - Machine Learning from Disaster (Kaggle)
 
 Files:
-- 'Titanic-Dataset.csv
+- Titanic-Dataset.csv
 
 ---
 
@@ -58,4 +58,5 @@ Achieved Accuracy: 82%
 ## Model Saving
 Trained model is saved as:
 - 'models/decision_tree_model.pkl'
+
 
